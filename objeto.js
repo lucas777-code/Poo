@@ -1,5 +1,5 @@
 const aluno = {
-    nome: "Lucas"
+    nome: "Lucas",
     idade: 17,
 
     estudar: () => console.log
